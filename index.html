@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+  <div class="card">
+
+    <h1>Test Your Knowledge</h1>
+    <p class="subtitle">Answer the questions and get instant feedback 🚀</p>
+
+    <div id="quiz">
+      <h2 id="question">Question</h2>
+      <p id="progress"></p>
+
+      <div id="options"></div>
+
+      <p id="feedback"></p>
+
+      <button id="nextBtn">Next Question</button>
+    </div>
+
+    <div id="result" class="hidden">
+      <h2>Your Score</h2>
+      <p id="score"></p>
+      <p id="performance"></p>
+      <button onclick="restartQuiz()">Restart Quiz</button>
+    </div>
+
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
