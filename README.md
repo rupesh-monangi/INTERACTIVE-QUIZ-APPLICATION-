@@ -23,3 +23,8 @@ Another important feature of this project is score tracking. At the end of the q
 From a design perspective, the application emphasizes simplicity and usability. The interface is clean and intuitive, ensuring that users of all technical levels can navigate and interact with the system effortlessly. CSS styling is used to enhance the visual appeal, while JavaScript handles the dynamic behavior and logic of the quiz.
 
 Overall, this internship project helped me strengthen my understanding of frontend development concepts, including DOM manipulation, event handling, and user interface design. It also improved my problem-solving skills and gave me practical experience in building real-world applications. This project represents an important step in my journey as a BTech student specializing in Artificial Intelligence and Data Science, as it lays a strong foundation for developing more advanced and scalable applications in the future.
+
+OUTPUT:
+
+<img width="1916" height="998" alt="Image" src="https://github.com/user-attachments/assets/f06e8ed3-4f2b-4d5d-b801-f92f0a2dd8e5" />
+
